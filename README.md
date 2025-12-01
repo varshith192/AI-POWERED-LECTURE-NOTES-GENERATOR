@@ -1,4 +1,3 @@
-# AI-POWERED-LECTURE-NOTES-GENERATOR
 # Welcome to your Lovable project
 
 ## Project info
